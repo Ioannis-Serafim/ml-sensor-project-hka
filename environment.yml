@@ -1,0 +1,11 @@
+name: sensor-project
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - jupyter
+  - scikit-learn
+  - numpy
+prefix: C:\anaconda_navigator\envs\sensor-project
