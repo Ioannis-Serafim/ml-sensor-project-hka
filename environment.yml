@@ -8,4 +8,5 @@ dependencies:
   - jupyter
   - scikit-learn
   - numpy
+  - seaborn
 prefix: C:\anaconda_navigator\envs\sensor-project
